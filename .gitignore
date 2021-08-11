@@ -1,0 +1,9 @@
+
+*.pyc
+*.docx
+*.html
+*.pdf
+*.rtf
+Test*.txt
+*.xml
+venv/*
